@@ -1,6 +1,3 @@
-# student-eshopping-analysis
-Data mining project analyzing student e-commerce behavior
-
 # Student E-Shopping Insights: Data Mining Project
 
 ##  Project Overview
