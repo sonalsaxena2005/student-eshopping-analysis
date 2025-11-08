@@ -22,6 +22,10 @@ This project analyzes student online shopping behavior using data mining techniq
 - `reports/`: Detailed findings
 
 ##  Key Findings
-
+-Most students aged 18–24 are frequent online shoppers, mainly using mobile devices.
+-Fashion and electronics were the most purchased categories.
+-Students showed a strong preference for discounts and free delivery options.
+-Association rules revealed links like Clothing → Footwear and Electronics → Accessories.
+-The Random Forest model predicted high-spending students with good accuracy (~85%).
 
 
